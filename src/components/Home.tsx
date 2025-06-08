@@ -1,4 +1,5 @@
 import Animation from "./Animation";
+import Chatbot from "./Chatbot";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       </p>
 
       <Animation />
+      
     </div>
   );
 };
