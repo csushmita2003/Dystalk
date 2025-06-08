@@ -4,8 +4,6 @@ ML-powered speech recognition directly in your browser! Built with [🤗 Transfo
 
  
 
-> [!IMPORTANT]  
-> Experimental WebGPU support has been added to [this branch](https://github.com/xenova/whisper-web/tree/experimental-webgpu) ([demo](https://huggingface.co/spaces/Xenova/whisper-webgpu)), if you'd like to run with GPU acceleration!
 
 https://github.com/xenova/whisper-web/assets/26504141/fb170d84-9678-41b5-9248-a112ecc74c27
 
