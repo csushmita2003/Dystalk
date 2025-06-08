@@ -18,6 +18,7 @@ function App() {
             <Route path="/transcribe" element={<TranscribePage />} />
           </Routes>
           <Chatbot/>
+          
         </main>
         <Footer />
       </div>

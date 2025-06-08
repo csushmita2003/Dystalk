@@ -57,7 +57,7 @@ const Chatbot: React.FC = () => {
         history: history,
       });
 
-      const botReply = response.data.answer || "Sorry, no response received.";
+      const botReply = response.data.answer || "Sorry, no response received from server.";
       const botMessage = { sender: "bot", text: botReply };
 
       setMessages((prev) => [...prev, botMessage]);
