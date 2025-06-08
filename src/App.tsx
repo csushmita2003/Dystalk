@@ -4,6 +4,7 @@ import Home from "./components/Home";
 import About from "./components/About";
 import TranscribePage from "./components/TranscribePage";
 import Footer from "./components/Footer";
+import Chatbot from "./components/Chatbot";
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/transcribe" element={<TranscribePage />} />
           </Routes>
+          <Chatbot/>
+          
         </main>
         <Footer />
       </div>
