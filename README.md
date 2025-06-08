@@ -2,7 +2,7 @@
 
 ML-powered speech recognition directly in your browser! Built with [🤗 Transformers.js](https://github.com/xenova/transformers.js).
 
-Check out the demo site [here](https://huggingface.co/spaces/Xenova/whisper-web). 
+ 
 
 > [!IMPORTANT]  
 > Experimental WebGPU support has been added to [this branch](https://github.com/xenova/whisper-web/tree/experimental-webgpu) ([demo](https://huggingface.co/spaces/Xenova/whisper-webgpu)), if you'd like to run with GPU acceleration!
